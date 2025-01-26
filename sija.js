@@ -1,1 +1,1 @@
-console.log('hhhdecimal'); //adding home bhai ddgdhfhf
+console.log('hhhdecimal'); //adding home bhai ddgdhfhf . from a different folder
