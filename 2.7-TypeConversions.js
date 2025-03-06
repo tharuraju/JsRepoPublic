@@ -33,3 +33,7 @@ console.log( Number(true) );        // 1
 console.log( Number(false) );       // 0
 
 /* Boolean Conversion */
+console.log("TRM");
+let count =  0;
+count++
+console.log("Value of Count " + count);
